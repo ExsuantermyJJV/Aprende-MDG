@@ -270,6 +270,10 @@ body{
 }
 
 @media (max-width: 1200px) {
+  
+ iframe{
+        width: 95%;
+    }
     
     html {
         font-size: 55%;
