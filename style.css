@@ -3,7 +3,7 @@
 
 
 /*bton */
-.home .content button {
+button {
      animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
     height: 5rem;
     width: 30rem;
