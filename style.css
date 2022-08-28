@@ -2,6 +2,23 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
 
 
+
+/*bton */
+.home .content button {
+     animation: bounce 3s cubic-bezier(.78,.26,0,.99) infinite;
+    height: 5rem;
+    width: 30rem;
+    border-radius: 1rem;
+    background: #fc0000;
+    color: #fff;
+    font-size: 2rem;
+    cursor: pointer;
+    transition: .2s;
+    box-shadow: 0 .3rem 1rem rgba(0, 0, 0, 0.3);
+    margin: 4rem 0;
+    border-color: #000000;
+}
+
 /*------------cartas---------*/
 
  .blog-card {
