@@ -1,6 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Poppins&display=swap');
+/*img y texto */
 
+h2 {
+    color: white;
+    padding-top: 3%;
+}
+
+
+.imagenabajo{
+    width: 38%;
+}
 
 /*bton */
 button {
@@ -442,7 +452,11 @@ body{
 }
 
 @media (max-width: 1200px) {
-  
+  .imagenabajo{
+        width: 95%;
+    }
+
+	
  iframe{
         width: 95%;
     }
