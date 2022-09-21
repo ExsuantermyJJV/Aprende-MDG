@@ -382,7 +382,6 @@ color: black;
   background-color: #fff;
   box-shadow: 0 30px 30px rgba(0,0,0,0.5);
   overflow: hidden;
-  z-index: 3;
 }
 
 .box:after{
