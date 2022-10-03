@@ -487,13 +487,21 @@ html {
 
 .heading {
     font-size: 3.5rem;
-    color: #ffffff;
+  color: #00d9ff;
     text-align: center;
     padding: 6rem 1rem 0 0;
     letter-spacing: .2rem;
     font-weight: 600;
 }
 
+.heading1 {
+    font-size: 3.5rem;
+      color: #00d9ff;
+    text-align: center;
+    letter-spacing: .2rem;
+    font-weight: 600;
+padding-top: 4%;
+}
 
 .title {
     padding: 0 1rem;
