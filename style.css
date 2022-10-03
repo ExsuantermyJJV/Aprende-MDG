@@ -503,6 +503,17 @@ html {
 padding-top: 4%;
 }
 
+.heading2 {
+    font-size: 2rem;
+      color: red;
+    text-align: center;
+    letter-spacing: .2rem;
+    font-weight: 600;
+padding-top: 4%;
+}
+
+
+
 .title {
     padding: 0 1rem;
     font-size: 2rem;
