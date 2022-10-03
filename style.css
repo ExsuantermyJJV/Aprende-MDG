@@ -627,6 +627,11 @@ body{
     border-color: #f9580e;
 }
 
+   iframe{
+	  padding-bottom: 3%;
+    }
+    
+
 @media (max-width: 1200px) {
   .imagenabajo{
         width: 95%;
