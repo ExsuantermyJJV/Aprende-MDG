@@ -293,7 +293,8 @@ color: black;
 }
 
  .blog-card .description .read-more a {
-	 color: #ff0000;
+	 color: #000000;
+    background-color: #00d9ff;
 	 display: inline-block;
 	 position: relative;
      font-size: 1.4vh;
